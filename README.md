@@ -1,5 +1,5 @@
 # NPT-Article
-Files referenced in the article "The never-proved triangle inequality: A GeoGebra and CAS approach"
+Files referenced in the article "The never-proved triangle inequality: A GeoGebra and CAS approach", by Zoltán Kovács, Tomás Recio, Carlos Ueno and Róbert Vajda.
 
 MAPLE FILES:
 
