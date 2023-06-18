@@ -3,7 +3,7 @@ Files used in the article "The never-proved triangle inequality: A GeoGebra and 
 
 MAPLE FILES:
 
-NPT - Problem 1 assisted computatiions.mw  (footnote at page 30)
+NPT - Problem 1 assisted computatiions.mw  (footnote at page 30)//
 NPT - Theorem 5 assisted computations.mw  (1st footnote at page 34)
 NPT - Surfaces bounding S_0, S_1, T.mw  (2nd footnote at page 34)
 
